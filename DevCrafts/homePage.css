@@ -1,0 +1,23 @@
+body{
+}
+
+.homePage{
+    background-color: #7496DF;
+    margin: 250px auto;
+    display: grid;
+    height: 767.987px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.homePage p{
+    color: #fff;
+    font-family: 'Serif';
+    font-size: 100.118px;
+    text-wrap: wrap;
+}
+
+.hello{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
